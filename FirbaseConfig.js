@@ -5,11 +5,11 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 
 
 const firebaseConfig = {
-  apiKey: "",
-  authDomain: "",
-  databaseURL: "",
-  projectId: "",
-  storageBucket: ""
+  apiKey: "AIzaSyAu5kUrANOjhhoTspvJy-LkKU4Xo-g2uH4",
+  authDomain: "react-native-857df.firebaseapp.com",
+  databaseURL: "https://react-native-857df-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "react-native-857df",
+  storageBucket: "react-native-857df.appspot.com"
 };
 
 const firebaseApp = initializeApp(firebaseConfig);
